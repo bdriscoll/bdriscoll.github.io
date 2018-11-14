@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          cogoff
 description:    "Minimal Jekyll theme for storytellers"
 url:            "https://blog.cogoff.com"
 
@@ -8,9 +8,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         cog
+  url:          https://blog.cogoff.com
+  email:        mail@brettdriscoll.com
 
 # Build settings
 markdown:       kramdown
